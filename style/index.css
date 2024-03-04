@@ -1,0 +1,28 @@
+body {
+    background-color: #7FC7D9;
+}
+
+.main-content {
+    position: absolute;
+    right: 1vw;
+    top: 2vw;
+    width: 55em;
+    height: 30em;
+    background-color: #365486;
+    border-radius: 10px;
+}
+
+.main-content span
+{
+    display: inline-block;
+    width: 100%;
+    font-size: 30px;
+    color: #DCF2F1;
+    text-align: center;
+    text-decoration: normal;
+}
+
+.main-content p {
+    margin: 1.5vw;
+    color: white;
+}
